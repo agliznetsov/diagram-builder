@@ -1,0 +1,3 @@
+        <mxCell id="$id" value="$label" style="" parent="1" vertex="1">
+            <mxGeometry x="$x" y="$y" width="$width" height="$height" as="geometry"/>
+        </mxCell>
